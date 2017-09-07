@@ -1,0 +1,49 @@
+h1{
+	text-align:center;
+	font-family: 'Berkshire Swash', cursive;
+	font-size:50px;padding:0;
+}
+body{
+	background-color:green;padding:0;
+}
+.bar{
+	margin-left:200px;
+	color:black;padding:0;
+}
+
+h2{
+	line-height:60px;
+	
+	background-color:#90EE90;padding:0;
+	
+
+}
+.para{
+	
+	font-size:30px;
+	background-color:#90EE90;
+	margin:0 700px 0 0;
+	padding:0;
+	}
+.paragraph{
+		
+	font-size:30px;
+	background-color:#90EE90;
+	margin:0 0 0px 1000px;padding:0;
+}
+.parag{
+	
+	font-size:30px;
+	background-color:#90EE90;
+	margin:0 700px 0 0;padding:0;
+}
+main{
+	display:inline;
+}
+aside{
+	display:inline;
+}
+p{
+	padding:0 0 0 0;
+}
+
